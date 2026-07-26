@@ -6,8 +6,8 @@ metadata:
 spec:
   project: default
 
-  source:https://github.com/ramakrishna3114/swiggy-sample-application.git
-    repoURL: 
+  source:
+    repoURL: https://github.com/ramakrishna3114/swiggy-sample-application.git
     targetRevision: HEAD
     path: argo-cd
   destination: 
